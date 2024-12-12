@@ -1,0 +1,31 @@
+/* DietInsufficient.css */
+.diet-insufficient {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .diet-insufficient table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 90%;
+    font-size: 1.2em;
+  }
+  
+  .diet-insufficient th, .diet-insufficient td {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .diet-insufficient th {
+    background-color: #f4a300;
+    color: white;
+  }
+  
+  .diet-insufficient tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .diet-insufficient tr:hover {
+    background-color: #ddd;
+  }
+  

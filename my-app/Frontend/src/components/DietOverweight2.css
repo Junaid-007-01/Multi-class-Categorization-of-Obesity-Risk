@@ -1,0 +1,30 @@
+/* DietOverweight2.css */
+.diet-overweight2 {
+    text-align: center;
+    margin: 20px;
+}
+
+.diet-overweight2 table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 90%;
+    font-size: 1.2em;
+}
+
+.diet-overweight2 th, .diet-overweight2 td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.diet-overweight2 th {
+    background-color: #f4a300;
+    color: white;
+}
+
+.diet-overweight2 tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.diet-overweight2 tr:hover {
+    background-color: #ddd;
+}

@@ -1,0 +1,30 @@
+/* DietObesity1.css */
+.diet-obesity1 {
+    text-align: center;
+    margin: 20px;
+}
+
+.diet-obesity1 table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 90%;
+    font-size: 1.2em;
+}
+
+.diet-obesity1 th, .diet-obesity1 td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.diet-obesity1 th {
+    background-color: #f4a300;
+    color: white;
+}
+
+.diet-obesity1 tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.diet-obesity1 tr:hover {
+    background-color: #ddd;
+}
